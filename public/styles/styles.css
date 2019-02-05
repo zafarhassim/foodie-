@@ -54,6 +54,6 @@ body{
 
 .container{
   position: relative;
-  bottom: 500px;
-  right: 100px;
+  bottom: 250px;
+  left: 100px;
 }
