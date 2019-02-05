@@ -58,5 +58,10 @@ body{
   left: 100px;
 }
 .row{
-  clear: both;
+  position: relative;
+  bottom: 50px;
+}
+.row2{
+  position: relative;
+  top: 100px;
 }
