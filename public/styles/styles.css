@@ -50,8 +50,7 @@ body{
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
-w3-card{
-  background:white;
-  background-color: white;
-  color: white;
+
+ww3-container{
+  background: white;
 }
