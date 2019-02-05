@@ -2,14 +2,14 @@
   line-height: 2.5;
 }
 body{
-  background-color: whitesmoke
+  background-color: whitesmoke;
 }
 .navbar{
   padding: 10px;
-  box-shadow: 5px 10px 8px 10px #888888;
+  box-shadow: 5px 8px 8px 8px #888888;
 }
 .navbar-text{
   font: bold;
-  font-family: Georgia, 'Times New Roman', Times, serif; 
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
   font-size: 20px;
 }
