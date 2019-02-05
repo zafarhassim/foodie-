@@ -53,6 +53,6 @@ body{
 }
 
 .container{
-  
-  clear: right;
+  position: relative;
+  bottom: 100px;
 }
