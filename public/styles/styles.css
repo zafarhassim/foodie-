@@ -25,6 +25,7 @@ body{
   background:white;
   overflow-x: hidden;
   padding: 60px 60px 60px 60px;
+  box-shadow: 2cm;
 }
 
 .sidenav a {
