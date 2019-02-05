@@ -53,5 +53,6 @@ body{
 }
 
 .container{
-  float: right;
+  
+  clear: right;
 }
