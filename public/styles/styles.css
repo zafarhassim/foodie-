@@ -5,7 +5,9 @@ body{
   background-color: whitesmoke
 }
 .navbar{
-  border: 1px solid;
   padding: 10px;
   box-shadow: 5px 10px 8px 10px #888888;
+}
+.navbar-text{
+  
 }
