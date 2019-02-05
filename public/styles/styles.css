@@ -33,6 +33,7 @@ body{
   font-size: 25px;
   color: lightgray;
   display: block;
+  text-align: left;
 }
 
 .sidenav a:hover {
